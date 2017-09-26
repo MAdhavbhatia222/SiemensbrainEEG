@@ -4,3 +4,5 @@ The project has two major components :
 1. The data acquisition
 2. Processing and analytics
 3. Visualization and global access
+
+OPERATIONS::
